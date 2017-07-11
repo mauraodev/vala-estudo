@@ -20,3 +20,4 @@ valac nome.vala
 
 ## Compilando de código Vala com Gtk
 
+valac --pkg gtk+-3.0 gtk-hello.vala
